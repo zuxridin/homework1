@@ -23,7 +23,7 @@ body {
 }
 
 header {
-  background-image: url(/img/background_main.png);
+  background-image: url(./img/background_main.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -209,18 +209,18 @@ main {
         }
 
         &.block_1 {
-          background-image: url(/img/apartImg1.png);
+          background-image: url(./img/apartImg1.png);
         }
 
         &.block_2 {
-          background-image: url(/img/apartImg2.png);
+          background-image: url(./img/apartImg2.png);
         }
       }
     }
   }
 
   .cta {
-    background-image: url(/img/cta_bg.png);
+    background-image: url(./img/cta_bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
